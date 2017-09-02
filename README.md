@@ -1,17 +1,17 @@
 # OpenMapLayer
 
+[![License: IEEE](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 This repository will store the map layer in `topojson` and `geojson` format.
 
-## Notice
+## Description
 
-### Update
+* **Topojson**
+  * `taiwan_topo.json` - Display to **COUNTY**.
 
-* Dec 1, 2016 10:34 - Update `taiwan_topo.json`
+## Author
 
-## Contents
+* [Yung-Sheng Lu](http://github.com/yungshenglu)
 
-### Topojson
-
-* `taiwan_topo.json` - Display to **COUNTY**.
-
-### Geojson
+---
+[![License: IEEE](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
